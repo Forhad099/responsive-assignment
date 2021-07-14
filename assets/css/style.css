@@ -83,8 +83,6 @@ body {
 
 .header__content__img {
    width: 50%;
-    transform: rotate(50deg);
-   transition:transform 2s;
 }
 
 .header__content__img img {
@@ -96,10 +94,7 @@ body {
    width: 556px;
    height: 438px;
 }
-.header-ancor:hover{
-	transform: translate(100px);
-    transition:transform 2s;
-}
+
 /* main css */
 
 main {
